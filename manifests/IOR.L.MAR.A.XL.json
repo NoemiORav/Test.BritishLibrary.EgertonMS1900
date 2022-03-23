@@ -1,0 +1,119 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://NoemiORav.github.io/Test.BritishLibrary.EgertonMS1900/manifests/IOR.L.MAR.A.XL.json",
+  "@type" : "sc:Manifest",
+  "label" : "British Library, IOR/L/MAR/A/XL, Royal James : Journal",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Part of the Royal James journal where describe the battle between the Portuguese fleet and the Anglo-Dutch alliance in Persian Gulf February 1625",
+    "@language" : "English"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[British Library and Qatar Digital Library]",
+  "sequences" : [ {
+    "@id" : "http://430d795e-c35a-4bef-9f2d-6585da4a2639",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://a1f9d8c6-f78e-4780-921d-28cdd7a7144a",
+      "@type" : "sc:Canvas",
+      "label" : "British Library, IOR/L/MAR/A/XL, f 9v ",
+      "height" : 5865,
+      "width" : 4132,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b85f38ca-7e93-4d41-9ee2-d277aba22f76",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000001273.0x0001ca/IOR_L_MAR_A_XL_0023.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000001273.0x0001ca/IOR_L_MAR_A_XL_0023.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 3000,
+              "maxHeight" : 3000
+            } ]
+          },
+          "height" : 5865,
+          "width" : 4132
+        },
+        "on" : "http://a1f9d8c6-f78e-4780-921d-28cdd7a7144a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4e5e0343-009d-44c9-bcfe-e5f670ed2669",
+      "@type" : "sc:Canvas",
+      "label" : "British Library, IOR/L/MAR/A/XL, f 10r ",
+      "height" : 5798,
+      "width" : 4040,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://30862dc9-cfc9-407c-89d4-e4fd644ee155",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000001273.0x0001ca/IOR_L_MAR_A_XL_0024.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000001273.0x0001ca/IOR_L_MAR_A_XL_0024.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 3000,
+              "maxHeight" : 3000
+            } ]
+          },
+          "height" : 5798,
+          "width" : 4040
+        },
+        "on" : "http://4e5e0343-009d-44c9-bcfe-e5f670ed2669"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3870fc5e-bdf8-4bfa-a60a-45938d5efa96",
+      "@type" : "sc:Canvas",
+      "label" : "British Library, IOR/L/MAR/A/XL, f 10v",
+      "height" : 5865,
+      "width" : 4132,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://46298637-da94-4bb4-98dc-55b494700d9c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000001273.0x0001ca/IOR_L_MAR_A_XL_0025.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000001273.0x0001ca/IOR_L_MAR_A_XL_0025.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 3000,
+              "maxHeight" : 3000
+            } ]
+          },
+          "height" : 5865,
+          "width" : 4132
+        },
+        "on" : "http://3870fc5e-bdf8-4bfa-a60a-45938d5efa96"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
