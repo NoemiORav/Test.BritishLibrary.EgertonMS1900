@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://NoemiORav.github.io/Test.BritishLibrary.EgertonMS1900/manifests/IOR.L.MAR.A.XL.json",
-    "label" : "British Library, IOR/L/MAR/A/XL, Royal James : Journal"
-  } ]
+  "items" : [ ]
 }
